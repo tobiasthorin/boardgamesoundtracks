@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Board Game Soundtracks</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <h1>Board Game Soundtracks</h1>
+      <p>Welcome! This is my collection of board game soundtracks. Each playlist is manually curated to provide the best possible atmosphere for your gaming session. If you have a request for a game you can contact me at <a href="https://bsky.app/profile/tobiasthorin.bsky.social">@tobiasthorin.bsky.social</a>.</p>
+    </header>
+    <ul>
+      {% for game in games %}
+        <li>
+          <a href="{{game.link}}">
+            <img src="{{game.imageUrl}}" alt="Box art for {{game.title}}"/>
+            <div>
+
+              <h2>{{game.title}}</h2>
+              <p>{{game.description}}</p>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <marquee>
+      <p><img src="images/dice.gif" alt="spinning die"/>Play more board games!<img src="images/dice.gif" alt="spinning die"/></p>
+    </marquee>
+  </body>
+</html>

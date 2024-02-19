@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Azul",
+    "link": "https://open.spotify.com/playlist/30K7l4hc1F3QnTnKFr3Sf3?si=5f347dc1d0824b04",
+    "imageUrl": "images/azul.jpg",
+    "description": "Medieval music from Portugal and Spain, including many authentic period works. A feeling of warm climate and sophistication."
+  },
+  {
+    "title": "Boss Monster",
+    "link": "https://open.spotify.com/playlist/4Y7LTue5DVJW9D3Mktdzg5?si=100f520a74894f5a",
+    "imageUrl": "images/bossmonster.jpg",
+    "description": "Chiptunes version of classic pop and rock songs. Upbeat and nerdy!"
+  },
+  {
+    "title": "Calico",
+    "link": "https://open.spotify.com/playlist/10MMNYVcSr2uIaDT8B9eIz?si=382a800eb7cd47ec",
+    "imageUrl": "images/calico.jpg",
+    "description": "Cozy and chill, like the warm nuzzle of a gently purring kitten come to rest."
+  },
+  {
+    "title": "Captain Sonar",
+    "link": "https://open.spotify.com/playlist/1LSXUJisAONN09xN0uLS5z?si=b2adf0274a0c411c",
+    "imageUrl": "images/sonar.jpg",
+    "description": "Hectic and unnerving. A constant reminder of your imminent claustrophobic demise, a countdown to the cold abyss!"
+  },
+  {
+    "title": "Carcassonne",
+    "link": "https://open.spotify.com/playlist/7LPaGIaa9CtnsHFklXYQ2T?si=add97dbfd4c84031",
+    "imageUrl": "images/carc.jpg",
+    "description": "French medieval music played by modern artists. A stroll through the historic countryside with the sun at your back."
+  },
+  {
+    "title": "Drakborgen",
+    "link": "https://open.spotify.com/playlist/0CkuD4kR005LG9nCl2qckp?si=ed29fbf491874e80",
+    "imageUrl": "images/drakborgen.jpg",
+    "description": "Eerie athmopheric soundscapes and spooky noises. Dank dungeouns, dark corridors, and a lurking dragon at the heart of the fortress!"
+  },
+  {
+    "title": "Gloom",
+    "link": "https://open.spotify.com/playlist/7xxMOl6WGQvPRE34WqSUqG?si=e885924f4f6346cb",
+    "imageUrl": "images/gloom.jpg",
+    "description": "Melancholy instrumentals and classic peieces. Music for a funeral, for a tragedy, for a beautiful parlor, with nothing but sad memories in it."
+  },
+  {
+    "title": "Heat: Pedal to the Metal",
+    "link": "https://open.spotify.com/playlist/6tUP75k25VUahzeU9wTm6y?si=0e39bc61f93e465a",
+    "imageUrl": "images/heat.jpg",
+    "description": "High energy classic rock and video game tracks. Adrenaline pumping, high octance, full throttle racing music - push your car to the limit!"
+  },
+  {
+    "title": "The Hunger",
+    "link": "https://open.spotify.com/playlist/1sVYdAfRzAAbTMVYt3jvRH?si=dc71163942864d88",
+    "imageUrl": "images/hunger.jpg",
+    "description": "Bombastic classical compositions. Dark but grand, the tragedy of eternal life. The means to live like a king while being forced to hide in the shadows of the night."
+  },
+  {
+    "title": "Sheriff of Nottingham",
+    "link": "https://open.spotify.com/playlist/6O7TDM4trtcZL84h5PZM76?si=8c580ed139a64bea",
+    "imageUrl": "images/sheriff.jpg",
+    "description": "Fantasy medieval tunes. The bustling of a spring market or the dance in a crowded tavern. Let the money flow, the ale be drunk, and the sheriff be fooled!"
+  },
+  {
+    "title": "Thebes",
+    "link": "https://open.spotify.com/playlist/1uRMa4whczXSuVZSef3mgh?si=70e9598b0bab4c54",
+    "imageUrl": "images/thebes.jpg",
+    "description": "Historic folk music from Greece, Egypt and Mesopotamia. A sense of mystery and exotic discovery. A delve into history itself."
+  },
+  {
+    "title": "Ticket to Ride: Göteborg",
+    "link": "https://open.spotify.com/playlist/11Gh1zqSdofkQIt7AK1qKa?si=29270b720e944894",
+    "imageUrl": "images/ticket-gbg.jpg",
+    "description": "Songs about Gothenburg. Humorous tunes, love letters, and a general celebration of the finest city in Sweden. Check your ticket and board the tram!"
+  }
+]

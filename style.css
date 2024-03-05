@@ -44,10 +44,12 @@ h6 {
 
 /* SITE STYLES */
 body {
-  background-color: lightgray;
+  background-image: url(images/bg.png);
   padding: 24px;
   max-width: 1024px;
   margin-inline: auto;
+  color: white;
+  font-size: 120%;
 }
 
 header {
@@ -77,6 +79,7 @@ li {
 }
 
 li a {
+  background-color: lightgray;
   display: flex;
   gap: 16px;
   border: 3px outset black;
@@ -104,7 +107,7 @@ li img {
 marquee p {
   display: flex;
   font-size: large;
-  color: maroon;
+  color: deeppink;
 }
 
 marquee img {

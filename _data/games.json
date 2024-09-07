@@ -12,6 +12,12 @@
     "description": "Chiptunes version of classic pop and rock songs. Upbeat and nerdy!"
   },
   {
+    "title": "Brass Birmingham",
+    "link": "https://open.spotify.com/playlist/0yPoAdfTVKonUFyDPu5gjk?si=463f81049f0442e1",
+    "imageUrl": "images/brassbirmingham.jpg",
+    "description": "Classical pieces fit for a burgeoning industry. Proud and hopeful!"
+  },
+  {
     "title": "Calico",
     "link": "https://open.spotify.com/playlist/10MMNYVcSr2uIaDT8B9eIz?si=382a800eb7cd47ec",
     "imageUrl": "images/calico.jpg",
@@ -54,6 +60,18 @@
     "description": "Bombastic classical compositions. Dark but grand, the tragedy of eternal life. The means to live like a king while being forced to hide in the shadows of the night."
   },
   {
+    "title": "The Loop",
+    "link": "https://open.spotify.com/playlist/4apSCcExMd5cEZbzKlo2C9?si=c8072cd82f7e482f",
+    "imageUrl": "images/loop.jpg",
+    "description": "Big band jazz and swanky compositions. These time travel shenanigans are crazy I tell you, crazy!"
+  },
+  {
+    "title": "Murder mystery games",
+    "link": "https://open.spotify.com/playlist/0gz1aTrC1cpDAGKUgnql7e?si=3f4b8e649eb54db6",
+    "imageUrl": "images/wall.jpg",
+    "description": "General background music for solving riddles and finding killers with your friends!"
+  },
+  {
     "title": "Pandemic",
     "link": "https://open.spotify.com/playlist/6Z9mQuf3XAcRLO3zfOB5um?si=d6adb8ea151f4fad",
     "imageUrl": "images/pandemic.jpg",
@@ -64,6 +82,12 @@
     "link": "https://open.spotify.com/playlist/6O7TDM4trtcZL84h5PZM76?si=8c580ed139a64bea",
     "imageUrl": "images/sheriff.jpg",
     "description": "Fantasy medieval tunes. The bustling of a spring market or the dance in a crowded tavern. Let the money flow, the ale be drunk, and the sheriff be fooled!"
+  },
+  {
+    "title": "Terraforming Mars",
+    "link": "https://open.spotify.com/playlist/14oIqRs64euxbkusRGVdI5?si=7c50bd1afa9848c0",
+    "imageUrl": "images/mars.jpg",
+    "description": "Sci-fi soundtracks for a new age of humanity. Technology has unlocked the future, and it's ours to claim!"
   },
   {
     "title": "Thebes",
